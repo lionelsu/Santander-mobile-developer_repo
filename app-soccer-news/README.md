@@ -2,7 +2,7 @@
 
 This APP was created with the Santander Mobile Developer Bootcamp by Digital Innovation One.
 
-![https://lionelsu.github.io/Santander-mobile-developer_repo/soccer-news-api/picrelatada.jpg](https://lionelsu.github.io/Santander-mobile-developer_repo/soccer-news-api/picrelatada.jpg)
+![https://lionelsu.github.io/Santander-mobile-developer_repo/soccer-news-api/images/picrelatada.jpg](https://lionelsu.github.io/Santander-mobile-developer_repo/soccer-news-api/images/picrelatada.jpg)
 
 Happy Womens Day!
 ---
